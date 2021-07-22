@@ -34,7 +34,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    [![Darkryhr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkryhr)](https://github.com/anuraghazra/github-readme-stats)
+    ![Darkryhr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkryhr)
 </details>
 
 [website]: https://gabriel-lellouche.carrd.co/
