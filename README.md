@@ -32,11 +32,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    ![Darkryhr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkryhr)
-</details>
-
 [website]: https://gabriel-lellouche.carrd.co/
 [instagram]: https://www.instagram.com/_gab_des/
 [linkedin]: https://linkedin.com/in/codeSTACKr
