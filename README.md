@@ -34,4 +34,4 @@
 
 [website]: https://gabriel-lellouche.carrd.co/
 [instagram]: https://www.instagram.com/_gab_des/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: www.linkedin.com/in/gabriel-lellouche
