@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Darkryhr/Darkryhr/master/banner-01.png)
+![](https://raw.githubusercontent.com/Darkryhr/Darkryhr/master/banner-01-01.png)
 ___
 
 ### Hi there, I'm Gabriel
