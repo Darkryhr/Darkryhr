@@ -3,11 +3,10 @@ ___
 
 ### Hi there, I'm Gabriel
 
-## I'm a Designer, Developer, and avid Learner
+## Design & Development
 
-- 🌱 Learning everything always
-- 👯 Looking for work, gotta stay busy
-- ⚡ Did i mention design? links comin' soon
+- 🌱 Always learning
+- 👯 Looking for work
 
 ### Connect with me:
 
