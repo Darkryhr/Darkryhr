@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Darkryhr/Darkryhr/master/thinner-dark-01.png)
+![](https://raw.githubusercontent.com/Darkryhr/Darkryhr/master/textLogo.svg)
 ___
 
 ### Hi there, I'm Gabriel
