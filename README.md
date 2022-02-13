@@ -11,8 +11,9 @@ ___
 ### Connect with me:
 
 [<img align="left" alt="gabriel-lellouche.carrd.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gabriel-designs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gabriel-designs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gabriel-lellouche | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gabriel-lellouche | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gabriel-lellouche | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -22,6 +23,7 @@ ___
 
 <br />
 
-[website]: https://gabriel-lellouche.carrd.co/
+[website]: https://www.gabriel-lellouche.com/
 [instagram]: https://www.instagram.com/_gab_des/
 [linkedin]: https://www.linkedin.com/in/gabriel-lellouche/
+[twitter]: https://twitter.com/GabrielAintReal/
