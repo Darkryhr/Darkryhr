@@ -1,9 +1,9 @@
 ![](https://raw.githubusercontent.com/Darkryhr/Darkryhr/master/textLogo.svg)
 ___
 
-### Hi there, I'm Gabriel
+## Hi there, I'm Gabriel
 
-## Design & Development
+### Designer & Full-Stack Developer
 
 - 🌱 Always learning
 - 👯 Looking for work
