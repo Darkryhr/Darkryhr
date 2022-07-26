@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Darkryhr/Darkryhr/master/textLogo.svg)
 ___
 
-## Hi there, I'm Gabriel
+# Hi there, I'm Gabriel
 
 ### Designer & Full-Stack Developer
 
@@ -10,7 +10,7 @@ ___
 
 ### Connect with me:
 
-[<img align="left" alt="gabriel-lellouche.carrd.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gabriel-lellouche.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gabriel-lellouche | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gabriel-lellouche | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="gabriel-lellouche | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
